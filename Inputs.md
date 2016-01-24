@@ -4,7 +4,21 @@
 
 Report Type =
 
+Report Date =
+
 Client Name =
+
+Producer Name 1 =
+
+Producer Name 2 =
+
+Account Manager 1 =
+
+Account Manager 2 =
+
+Analyst 1 =
+
+Analyst 2 =
 
 ## MEDICAL STUFF
 
