@@ -2,38 +2,39 @@
 
 ## *REPORT STRUCTURE*
 
-Report Type =
+Report Type = [Drop-Down]
 
-Report Date =
+Report Date = [Date]
 
-Client Name =
+Client Name = [Type-In Text Field]
 
-Producer Name 1 =
+Producer Name 1 = [Drop-Down]
 
-Producer Name 2 =
+Producer Name 2 = [Drop-Down]
 
-Account Manager 1 =
+Account Manager 1 = [Drop-Down]
 
-Account Manager 2 =
+Account Manager 2 = [Drop-Down]
 
-Analyst 1 =
+Analyst 1 = [Drop-Down]
 
-Analyst 2 =
+Analyst 2 = [Drop-Down]
 
-## MEDICAL STUFF
+## *MEDICAL STUFF*
 
-Number of Plans =
+Number of Plans = [Drop-Down]
 
-HSA = Y/N
+HSA = [Y/N] ... If Y: Enter Amount [Type-In # Field]
 
-HRA = Y/N
+HRA = [Y/N] ... If Y: Enter Amount [Type-In # Field]
 
-Rates (Set 1) =
+Rates (Set 1) = [Type-In # Fields x4]
+Flow Right or Table
+Rates (Set 2) = [Type-In # Fields x4]
+Flow Right or Table
+Rates (Set 3) = [Type-In # Fields x4]
+... Depending on "Number of Plans"
 
-Rates (Set 2) =
+## *DENTAL STUFF*
 
-Rates (Set 3) =
-
-## DENTAL STUFF
-
-## VISION STUFF
+## *VISION STUFF*
